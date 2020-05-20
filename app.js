@@ -25,8 +25,3 @@ function operate(op,a,b) {
         return divide(a,b);
     }
 }
-
-console.log(operate('+',10,5))
-console.log(operate('-',10,5))
-console.log(operate('*',10,5))
-console.log(operate('/',10,5))
